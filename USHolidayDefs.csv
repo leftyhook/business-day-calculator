@@ -1,0 +1,13 @@
+Holiday,Instance,Unit,OfBeforeAfter,Month,Day,WeekendLogic
+New Year's Day,1,Day,Of,January,,Monday
+Martin Luther King Jr. Day,3,Monday,Of,January,,
+Presidents Day,3,Monday,Of,February,,
+Good Friday,,Friday,Before,,Easter Sunday,
+Memorial Day,Last,Monday,Of,May,,
+Juneteenth,19,Day,Of,June,,Closest
+U.S. Independence Day,4,Day,Of,July,,Closest
+Labor Day,1,Monday,Of,September,,
+Columbus Day,2,Monday,Of,October,,
+Veterans Day,11,Day,Of,November,,Closest
+Thanksgiving Day,4,Thursday,Of,November,,
+Christmas Day,25,Day,Of,December,,Closest

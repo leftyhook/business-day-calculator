@@ -1,0 +1,13 @@
+Holiday,Instance,Unit,OfBeforeAfter,Month,Day,WeekendLogic
+New Year's Day,First,Day,Of,January,,Monday
+Good Friday,,Friday,Before,,Easter Sunday,
+Easter Monday,,Monday,After,,Easter Sunday,
+Victoria Day,,Monday,Before,May,25,
+Canada Day,First,Day,Of,July,,Monday
+Civic Holiday,First,Monday,Of,August,,
+Labour Day,1,Monday,Of,September,,
+National Day for Truth and Reconciliation,30,Day,Of,September,,Monday
+Thanksgiving Day,Second,Monday,Of,October,,
+Remembrance Day,11,Day,Of,November,,Monday
+Christmas Day,25,Day,Of,December,,Monday
+Boxing Day,26,Day,Of,December,,Tuesday
